@@ -22,7 +22,7 @@
 
 ```python
 class HimChana:
-    name       = "Him Chana"
+    name       = "Himchana"
     role       = "Software Engineering Student"
     location   = "Tanzania 🇹🇿"
     languages  = ["Python", "JavaScript", "TypeScript", "HTML/CSS"]
