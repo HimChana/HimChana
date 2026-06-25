@@ -86,7 +86,7 @@ class HimChana:
 
 <div align="center">
 
-[![Him Chana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimChana&bg_color=0D0B1A&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=false&area_color=6E40C920)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Himchana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimChana&bg_color=0D0B1A&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=false&area_color=6E40C920)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
